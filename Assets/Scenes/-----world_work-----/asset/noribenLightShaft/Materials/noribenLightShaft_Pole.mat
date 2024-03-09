@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: noribenLightShaft_Pole
+  m_Shader: {fileID: 4800000, guid: 3ab60ecd8b6b094419c3891e31a9c6d9, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CausticsTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 215301951cce28146aca3e63a4eceb41, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _dTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Aberration: 0.0222
+    - _BlendDst: 1
+    - _BlendSrc: 1
+    - _Brightness: 0.3
+    - _CausticsTiling: 1
+    - _CausticsTop: 0
+    - _CausticsWorldAxis: 0
+    - _CausticsWorldUV: 1
+    - _ColPow: 1
+    - _Cull: 2
+    - _Distortion: 0
+    - _DistortionScroll: 0
+    - _FadeOn: 0
+    - _FadeSoftness: 3
+    - _Flash: 0
+    - _MaskGrad: 0.905
+    - _MaskIntensity: 1
+    - _Scroll: 0.2
+    - _Scroll2: -0.2
+    - _SecondMapBrightness: 0.507
+    - _Shape: 0
+    - _SourceContrast: 1
+    - _TilingX: 0
+    - _TilingY: 0.2
+    - _WorldPosFade: 0
+    - _WorldPosRotateX: 0
+    - _WorldPosRotateY: 0
+    m_Colors:
+    - _CausticsColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}

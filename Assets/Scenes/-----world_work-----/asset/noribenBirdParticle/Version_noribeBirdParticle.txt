@@ -1,0 +1,14 @@
+[遠景用]鳥パーティクル / Bird particle
+
+https://noriben.booth.pm/items/2339673
+
+
+2020/8/30 V001 初期
+2020/8/31 V002 影が落とせるようになった。Directional Light及び環境光の影響を受けるようになった(Light Color Intensityで調整可) 。テクスチャのジャギーが減った。
+2020/8/31 V003 よりジャギーが目立たなくなるようテクスチャを変更。
+2020/9/1 V004 Render queueを2501に変更。AlphaToMaskがちゃんと動くようになりよりジャギーが減った。
+2022/03/11 V005 Single Pass Stereo (Instanced)レンダリングに対応。フォルダ構成を変更。
+
+noriben
+https://twitter.com/noriben327
+https://noriben.booth.pm/
